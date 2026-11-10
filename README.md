@@ -1,2 +1,7 @@
-# emails_github_canvas_memory_terminal_5238_spectral_sketch_k7q2m9
-Official code release for Spectral Graph Sketching for Streaming Anomaly Detection
+# Spectral Graph Sketching
+
+Official implementation of the paper **"Spectral Graph Sketching for Streaming
+Anomaly Detection"** (Journal of Streaming Systems, 2025).
+
+Status: released (v1.2.0). Includes the streaming sketch, detector and the
+synthetic stream generator used in the evaluation.
